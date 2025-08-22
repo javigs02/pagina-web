@@ -1,0 +1,33 @@
+* {
+	font-family: century;
+	border: solid red 1px;
+}
+
+header {
+	height: 82px;
+}
+
+ul {
+    padding: 0px 0px;
+	margin: 0px 0px;
+}	
+
+li {
+	display: inline-block;
+}
+
+#name {
+	display: inline-block;
+	height: 82px;
+	text-align: center;
+	width: 700px;
+}
+
+#link-content {
+	display: inline-block;
+	height: 82px;
+	position: relative;
+	bottom: 37.438px;
+	text-align: center;
+	width: 950px;
+}
