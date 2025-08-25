@@ -1,19 +1,28 @@
 * {
 	font-family: century;
-	border: solid red 1px;
+	border: 1px solid red;
 }
 
 header {
 	height: 82px;
 }
 
+h1 {
+	margin: 0px 0px;
+	position: relative;
+	top: 21.44px;
+}
+
 ul {
     padding: 0px 0px;
 	margin: 0px 0px;
+	position: relative;
+	top: 32px;
 }	
 
 li {
 	display: inline-block;
+	padding: 0px 40px;
 }
 
 #name {
@@ -27,7 +36,7 @@ li {
 	display: inline-block;
 	height: 82px;
 	position: relative;
-	bottom: 37.438px;
+	bottom: 15.998px;
 	text-align: center;
-	width: 950px;
+	width: 1189.55px;
 }
