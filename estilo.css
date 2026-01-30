@@ -1,0 +1,11 @@
+li {
+	display: inline-block;
+}
+
+.center {
+	text-align: center;
+}
+
+.inline {
+	display: inline-block;
+}
