@@ -1,5 +1,29 @@
+* {
+	border: 1px solid red
+}
+
 li {
 	display: inline-block;
+}
+
+ul {
+	padding-left: 0px;
+}
+
+#CV {
+	margin-right: 200px;
+}
+
+#Portafolio {
+	margin-right: 100px;
+}
+
+#Blog {
+	margin-left: 100px;
+}
+
+#sobre-mi {
+	margin-left: 200px;
 }
 
 .center {
