@@ -33,3 +33,17 @@ ul {
 .inline {
 	display: inline-block;
 }
+
+#little-desc {
+	font-size: 20px;
+	text-align: center;
+	width: 700px;
+	position: relative;
+	left: 430px;
+}
+
+#foto {
+	width: 180px;
+	position: relative;
+	left: 300px;
+}
