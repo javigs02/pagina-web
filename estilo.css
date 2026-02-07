@@ -2,28 +2,37 @@
 	border: 1px solid red
 }
 
-li {
-	display: inline-block;
+h1 {
+	font-size: 50px;
 }
 
-ul {
-	padding-left: 0px;
+li {
+	display: inline-block;
+	font-size: larger
 }
 
 #CV {
 	margin-right: 200px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 #Portafolio {
 	margin-right: 100px;
+	padding-left: 25px;
+	padding-right: 25px;
 }
 
 #Blog {
 	margin-left: 100px;
+	padding-left: 45px;
+	padding-right: 45px;
 }
 
 #sobre-mi {
 	margin-left: 200px;
+	padding-left: 28px;
+	padding-right: 28px;
 }
 
 .center {
@@ -40,10 +49,16 @@ ul {
 	width: 700px;
 	position: relative;
 	left: 430px;
+	margin-top: 50px;
 }
 
 #foto {
 	width: 180px;
 	position: relative;
 	left: 300px;
+	bottom:50px;
+}
+
+main {
+	margin-top: 120px;
 }
