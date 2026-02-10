@@ -6,6 +6,11 @@ h1 {
 	font-size: 50px;
 }
 
+ul {
+	list-style-type: none;
+	text-align: center;
+}
+
 li {
 	display: inline-block;
 	font-size: larger
@@ -61,4 +66,8 @@ li {
 
 main {
 	margin-top: 120px;
+}
+
+.circle-border {
+	border-radius: 15px;
 }
